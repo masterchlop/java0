@@ -1,7 +1,7 @@
 /**
  * klasa wypisujaca nazwe systemu
  */
-public class Klasa2 {
+public final class Klasa2 {
     /**
      *
      * @return Linux

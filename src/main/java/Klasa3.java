@@ -1,7 +1,7 @@
 /**
- * klasa witajaca
+ * Klasa3 witajaca
  */
-public class Klasa3 {
+public final class Klasa3 {
     /**
      *
      * @return witaj
