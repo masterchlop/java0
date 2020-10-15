@@ -11,7 +11,7 @@ public final class App   {
     /**
     @funkcja pisze zart i wita system
      */
-    int x=2332323ffdhd;
+    int x=233232333;
         public static void main(final String[] args){
         final String przywitanie = Klasa2.systemos();
         final String informacja = Klasa3.powitanie();
