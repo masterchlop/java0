@@ -17,6 +17,6 @@ public final class App   {
         System.out.println(przywitanie + " " + informacja);
         final ChuckNorrisQuotes jokes = new ChuckNorrisQuotes();
         System.out.println(jokes.getRandomQuote());
-
+        System.out.println("Haha, zabawne");
     }
 }
